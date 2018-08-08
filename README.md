@@ -75,4 +75,5 @@ return image
 
 Output:
 
+![alt text](http://dev.acquaintsoft.com/detector.gif)
 
